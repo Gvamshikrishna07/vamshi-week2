@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vamshi-week2./static/css/main.e6c13ad2.css",
+    "main.js": "/vamshi-week2./static/js/main.06f59dc4.js",
+    "static/js/592.60d28d9a.chunk.js": "/vamshi-week2./static/js/592.60d28d9a.chunk.js",
+    "index.html": "/vamshi-week2./index.html",
+    "main.e6c13ad2.css.map": "/vamshi-week2./static/css/main.e6c13ad2.css.map",
+    "main.06f59dc4.js.map": "/vamshi-week2./static/js/main.06f59dc4.js.map",
+    "592.60d28d9a.chunk.js.map": "/vamshi-week2./static/js/592.60d28d9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.06f59dc4.js"
+  ]
+}
